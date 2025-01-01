@@ -52,7 +52,7 @@ Open the index.html file in your browser to view the website.
 
 Screenshots:-
 ![Screenshot 2025-01-01 210757](https://github.com/user-attachments/assets/81d7d600-c3f5-4dc8-b2ce-0ac0efac101b)
-![Screenshot 2025-01-01 210757](https://github.com/user-attachments/assets/796328fc-52c9-442e-9374-1f3c5942af11)
+![Screenshot 2025-01-01 210819](https://github.com/user-attachments/assets/5c820385-be95-43a5-a80f-7e2dbbc0ecdd)
 ![Screenshot 2025-01-01 210828](https://github.com/user-attachments/assets/4c850045-4007-4d50-bd19-f6f37dc20f69)
 ![Screenshot 2025-01-01 210841](https://github.com/user-attachments/assets/552bdb28-ca01-499f-897c-7d0756de539d)
 
